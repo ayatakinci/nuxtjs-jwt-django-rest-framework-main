@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "pipx": "^1.0.1"
+  }
+}
